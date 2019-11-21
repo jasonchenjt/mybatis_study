@@ -1,7 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="621d9de2-29cc-4a41-888c-5af53c7f8b11" name="Default Changelist" comment="" />
+    <list default="true" id="621d9de2-29cc-4a41-888c-5af53c7f8b11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_0_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_0_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_mybatis_mybatis_3_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_3_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_1_3_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_3_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_3_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_redis_1_3_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_3_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_3_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_3_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_3_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_6_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_spring_test_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/libraries/Maven__redis_clients_jedis_2_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/mybatis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/src/main/java/com/didispace/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/src/main/java/com/didispace/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/src/main/java/com/didispace/comtroller/CacheController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/src/main/java/com/didispace/comtroller/VueController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/src/main/java/com/didispace/domain/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/src/main/java/com/didispace/domain/PetMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/src/main/java/com/didispace/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/src/main/java/com/didispace/domain/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/src/main/java/com/didispace/service/CacheService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/src/main/java/com/didispace/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/src/test/java/com/didispace/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/target/classes/com/didispace/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/target/classes/com/didispace/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/target/classes/com/didispace/comtroller/CacheController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/target/classes/com/didispace/comtroller/VueController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/target/classes/com/didispace/domain/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/target/classes/com/didispace/domain/PetMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/target/classes/com/didispace/domain/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/target/classes/com/didispace/domain/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/target/classes/com/didispace/service/CacheService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/target/classes/com/didispace/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter3-2-8/target/test-classes/com/didispace/ApplicationTests.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +144,31 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1603454376">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1111412787">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/didispace/comtroller/CacheController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
+            <state relative-caret-position="532">
               <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -73,7 +180,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/didispace/service/CacheService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
+            <state relative-caret-position="437">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -85,7 +192,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/didispace/RedisConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="228">
               <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -97,7 +204,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/didispace/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="304">
               <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -118,8 +225,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/didispace/ApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="201" column="25" lean-forward="true" selection-start-line="201" selection-start-column="25" selection-end-line="201" selection-end-column="25" />
+            <state relative-caret-position="1273">
+              <caret line="96" column="25" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,6 +277,9 @@
       <find>port</find>
       <find>cacheable</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -225,12 +335,13 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,7 +425,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,7 +437,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574307951261" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574308402811" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -483,22 +594,12 @@
       <workItem from="1574128769823" duration="14328000" />
       <workItem from="1574298982696" duration="827000" />
       <workItem from="1574305822552" duration="1336000" />
+      <workItem from="1574307832291" duration="497000" />
+      <workItem from="1574308396485" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ApplicationTests_testRedis_getSet - 2019.11.20 at 17h 57m 03s.xml">
-      <configuration name="ApplicationTests.testRedis_getSet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApplicationTests_testRedis_setSet - 2019.11.20 at 17h 58m 19s.xml">
-      <configuration name="ApplicationTests.testRedis_setSet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApplicationTests_testRedis_setSet - 2019.11.20 at 17h 58m 43s.xml">
-      <configuration name="ApplicationTests.testRedis_setSet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApplicationTests_testRedis_getSet - 2019.11.20 at 17h 58m 51s.xml">
-      <configuration name="ApplicationTests.testRedis_getSet" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ApplicationTests_testRedis_setSet - 2019.11.20 at 17h 59m 11s.xml">
       <configuration name="ApplicationTests.testRedis_setSet" configurationId="JUnit" />
     </history-entry>
@@ -517,15 +618,27 @@
     <history-entry file="ApplicationTests_testRedis_getSet - 2019.11.20 at 18h 15m 45s.xml">
       <configuration name="ApplicationTests.testRedis_getSet" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ApplicationTests_test2 - 2019.11.21 at 11h 44m 56s.xml">
+      <configuration name="ApplicationTests.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationTests_selectPet - 2019.11.21 at 11h 45m 15s.xml">
+      <configuration name="ApplicationTests.selectPet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationTests_test3 - 2019.11.21 at 11h 45m 45s.xml">
+      <configuration name="ApplicationTests.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationTests_test3 - 2019.11.21 at 11h 53m 30s.xml">
+      <configuration name="ApplicationTests.test3" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63868000" />
+    <option name="totallyTimeSpent" value="64383000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -535,7 +648,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32258064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32293987" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -671,7 +784,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/didispace/comtroller/CacheController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
+        <state relative-caret-position="532">
           <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -681,7 +794,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/didispace/service/CacheService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
+        <state relative-caret-position="437">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -691,7 +804,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/didispace/RedisConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="228">
           <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -701,7 +814,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/didispace/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="304">
           <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -738,8 +851,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/didispace/ApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="201" column="25" lean-forward="true" selection-start-line="201" selection-start-column="25" selection-end-line="201" selection-end-column="25" />
+        <state relative-caret-position="1273">
+          <caret line="96" column="25" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
